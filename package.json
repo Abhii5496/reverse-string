@@ -1,0 +1,19 @@
+{
+  "name": "reverse-string-latest-version",
+  "version": "1.0.0",
+  "description": "reverse-string",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhii5496/reverse-string.git"
+  },
+  "author": "Abhii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhii5496/reverse-string/issues"
+  },
+  "homepage": "https://github.com/Abhii5496/reverse-string#readme"
+}
