@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Abhii5496/reverse-string#readme",
   "dependencies": {
-    "reverse-string-latest-version": "^1.0.0"
+    "reverse-string-latest-version": "^1.0.1"
   }
 }
